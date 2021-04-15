@@ -1,0 +1,54 @@
+*{
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(134, 134, 134);
+}
+
+#titulo {
+    background-color: steelblue;
+    color:#000000;
+    border: 5px solid #000000;
+    border-radius: 20px;
+}
+
+.conteudo {
+    background-color: #fdfdfd;
+    border: 5px solid #000000;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+p {
+    color:#000000;
+    font-size:20px;
+    font-weight:bold;
+    font-family: Comic Sans MS;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    line-height: 40px;
+}
+
+p1 {
+    color:#000000;
+    font-size:20px;
+    font-weight:bold;
+    font-family: Comic Sans MS;
+    text-align: left;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    line-height: 40px;
+}
+
+p2 {
+    color: #000000;
+    font-size:20px;
+    font-weight:bold;
+    font-family: Comic Sans MS;
+    text-align: justify;
+    text-transform: lowercase;
+    word-spacing: 20px;
+    text-shadow: 0px 0px 20px #FF0000;
+}
